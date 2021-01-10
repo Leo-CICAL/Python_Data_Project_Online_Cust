@@ -23,3 +23,10 @@ In this GitHub, there is :
 - **Seaborn**
 - **Matplotlib**
 
+# RESULTS :
+
+I created 5 ML Models ; let's compare the accuracy :
+
+![Screenshot](ACCURACY.PNG)
+
+We can see that the best model is the RandomForest model !
